@@ -96,29 +96,30 @@ PYDEVD_DISABLE_FILE_VALIDATION=1 JUPYTER_PLATFORM_DIRS=1 pytest --capture=sys
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to use python functions including: function def, for loops, if-else statements, numpy arrays, and importing extensions like 
 
 **I struggled with:** (repeat as needed)
-- .
+- . Numpy arrays, appending, numpy copy and fill functions, numpy char.add function
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . N/A (Didn't need help.)
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[8] hours. This time was mostly spent refreshing myself on each individual aspect of python focused on during this assignment, then I essentially used the assignment to test my knowledge. 
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- . Ask for more clarification when it comes to how certain tasks were supposed to be done. The parts where I got stuck were typically parts where I didn't understand what the objective of the exercise was clearly.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . numpy.org
+- . it4063c.github.io/course-notes/refreshers/python
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . N/A (no outside help)
 
 ---
 ## Copyrights and License
